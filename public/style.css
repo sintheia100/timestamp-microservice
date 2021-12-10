@@ -1,0 +1,54 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	background-color:#333;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.user-stories {
+  position: relative;
+  text-align: justify;
+  max-width: 700px;
+  margin: 15px auto;
+}
+code {
+  font-family: monospace;
+  padding: 2px;
+  color: black;
+  background-color: #fff;
+}
+ol {
+	list-style-position: outside;
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+	color: #022d7c;
+    background-color: rgb(165, 165, 164);
+    margin: 5px;
+    padding: 5px 10px;
+}
